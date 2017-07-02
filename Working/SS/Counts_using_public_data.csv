@@ -1,0 +1,7 @@
+Index_Score,Income_Share,Relative_Unaffordabillity,SingleIncome,CoupleIncome,PercentSingle,PercentCouple
+<50,60% or more ,Extremely unaffordable rents,466118,299724,36%,23%
+50-80,38-60%,Severely unaffordable rents,297983,97598,23%,8%
+80-100,30-38%,Unaffordable rents,61042,160162,5%,12%
+100-120,25-30%,Moderately unaffordable rents,4371,97050,0%,8%
+120-150,20-25%,Acceptable rents,1779,136534,0%,11%
+>150,15% or less,Affordable rents,0,40226,0%,3%
